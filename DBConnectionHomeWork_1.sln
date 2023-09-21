@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnectionHomeWork_1", "DBConnectionHomeWork_1\DBConnectionHomeWork_1.csproj", "{37D5DF71-E707-486B-A034-2AC442702385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D5DF71-E707-486B-A034-2AC442702385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D5DF71-E707-486B-A034-2AC442702385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D5DF71-E707-486B-A034-2AC442702385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D5DF71-E707-486B-A034-2AC442702385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E638FF04-4BCA-4B3D-8C59-70268058991F}
+	EndGlobalSection
+EndGlobal
